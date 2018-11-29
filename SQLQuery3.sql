@@ -1,0 +1,2 @@
+SELECT [dbo].[Alunos].[dtNasc]
+
